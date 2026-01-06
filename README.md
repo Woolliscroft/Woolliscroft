@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hey, I'm Woolliscroft 👋
+
+I like programming, especially systems and game development.
+
 
 <!--
 **Woolliscroft/Woolliscroft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
