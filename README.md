@@ -1,6 +1,6 @@
-### Hey, I'm woolly 👋
+## Hey, I'm woolly 
 
-## I like programming, especially systems and graphics programming
+# I like programming, especially systems and graphics programming
 
-## My skills 💪
+# skills 
 [![My Skills](https://skillicons.dev/icons?i=c,java)](https://skillicons.dev)
